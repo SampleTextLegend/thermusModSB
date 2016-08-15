@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "thermus", "count" : 1 },
+    { "item" : "thornjuice", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "thornjuiceshot",
+    "count" : 10
+  },
+  "groups" : [ "craftingdrinks", "drinks"]
+}

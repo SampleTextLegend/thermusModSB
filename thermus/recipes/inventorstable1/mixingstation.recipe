@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "leather", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "mixingstation",
+    "count" : 1
+  },
+  "groups" : [ "inventorstable1", "craftingstations", "all" ]
+}

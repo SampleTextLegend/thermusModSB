@@ -1,0 +1,10 @@
+{
+  "itemName" : "thermus",
+  "price" : 50,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "thermus.png",
+  "description" : "Can store liquids for easy transportation. .",
+  "shortdescription" : "Thermus",
+  "itemTags" : [ "reagent" ]
+}
